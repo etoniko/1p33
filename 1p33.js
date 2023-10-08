@@ -1084,7 +1084,7 @@ body .mhb_back+.LiteSettings__headerButton,.LiteSettings__headerButton{display:n
     		box-shadow: 0 20px 40px 0 rgb(0 0 0 / 30%);
 			cursor: default;
 			transition: opacity 100ms linear,top 100ms linear,visibility 100ms linear;
-			z-index: 800;
+			z-index: 1800;
 		}
 
 		#my_ext_control_msg_content > div[id^="my_ext"] {
