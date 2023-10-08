@@ -180,7 +180,7 @@ img[src^="/images/mobile/places/"]{border-radius:0!important}
 @media screen and (min-width:620px){body #vk_wrap{max-width:620px;margin:0 auto}}
 @media screen and (min-width:620px){#vk_head{display:block;position:absolute;width:100%;z-index:-1}}
 @media screen and (min-width:620px){.m_search_items{box-shadow:none}}
-@media screen and (min-width:2000px){body._lm #vk_wrap{max-width:882px;margin:0 auto;overflow:visible}}
+@media screen and (min-width:2000px){body._lm #vk_wrap{max-width:2000px;margin:0 auto;overflow:visible}}
 @media screen and (min-width:2000px){._lm #l{display:block;position:static;float:left;width:264px;margin-right:0!important;margin-left:12px}}
 @media screen and (min-width:2000px){body._lm #m{display:block;position:relative;width:auto!important;left:0;margin-left:278px!important;margin-top:0!important;box-shadow:none}}
 @media screen and (min-width:2000px){._lm #m .lmh_logo_wrap{display:none}}
