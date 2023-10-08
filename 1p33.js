@@ -1187,7 +1187,9 @@ body .mhb_back+.LiteSettings__headerButton,.LiteSettings__headerButton{display:n
           <div class="layout__header mhead" id="vk_head"></div>
       <div class="layout__body _js _copts" id="vk_wrap">
         
-        <div class="layout__basis" id="m" role="main">
+        <div class="layout__basis" id="m" role="main" style="
+    margin-left: 0px!important;
+">
               <div class="basis">
       
       
