@@ -1177,46 +1177,11 @@ body .mhb_back+.LiteSettings__headerButton,.LiteSettings__headerButton{display:n
 			margin-left: -22px;
 		}</style><script src="https://st1-47.vk.com/dist/mobile/vendors~icons.62b3fd145e442324a70d.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~effector.a16ad89e8593fcd1a101.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~api.0f7a53db2ab6415efe34.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~vk.915022f2c5de6acd22a3.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~onlyReact.db7c2ee7319e57ddb970.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~vkui.fa7ed5e7e2a3427593c8.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~qr.c829143a77512567db49.js"></script><script src="https://st1-47.vk.com/dist/mobile/nav.bb9a7941683c908a2315.js"></script><script src="https://st1-47.vk.com/dist/mobile/vkcom-kit.ebbab65a792afe442e38.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-79fa97e33083b1e28470e5bfc56ea1d2.ce8877eb0b8ad6a0bda9.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-fe61342c623debe4e40884b7444154b1.c9fa04411cae97e25eaa.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-1be30ad47a2b3c713ef2eb0449eaadee.e29f51fd45b22436411e.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-aa7b836ae19603ab0f8c0871ef7d575b.5ee85f906525c23c8fee.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-2bdcd130894e9b5ef4545b25d6c4af89.72dd388999636e1b5b37.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-37b6edcac55626446b9020bdcf0a5118.40a886e51e6ab7729847.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-ee6353652df833d9b7d78a2bc3d3f0c4.2b6fffefa86aab56522a.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-6912850acdbf10ce8706ffb274ae9a1d.bb746bc3a4da07fc08b1.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-cb3bfa9550c929e2d9ce4f885ae782df.3d5ac58dca5bae39d499.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-394e909de1cd532bd7bfc5ee31382446.388d10e8943bfac3e1c2.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-a5f5903598a5c43274811b38ad0ef429.505823d5226bd2cc22d3.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-f68ce7228f9fd50011ba849954b3c1ae.4ee6be1ac1def6311377.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-f0e1121a06deb6382ade44be1ab39a4e.320a3c45bae5429325f4.js"></script><script src="https://st1-47.vk.com/dist/mobile/common.41e365cabc48451dfa63.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-b2b26624e5b740f92065a4e651c0f6b5.63d730c9727c9566002a.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-a6da9231c1ab507f1d8b3b8406624410.d5d5a4d9cba22eeb40fd.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-643f30bc9a616bdf60a2d0eb65affdc9.92b3ff7827b0279e58ce.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-9a8a7fe0c6b36a80ae9d1da4e0025863.b7b9b58419be61ac9f90.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-cf5d1f002f330e3617ccf53b5a2cd898.2544ee48d90f2728e724.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-4ae5a6651efc309101c4593f515a0176.742475c8d15209f8e4aa.js"></script><script src="https://st1-47.vk.com/dist/mobile/audio.dba504c4154861d40eb1.js"></script><script src="https://st1-47.vk.com/dist/mobile/mail.3e1fa33172f3116a70fb.js"></script><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/variables.c1c6c3d68c3fe9a0c916.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/legacy.e2075ad94bc906131043.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/common.d5d060cc8666e21df5dc.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/audio.7973185563a48fe5263b.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/mail.173187dddba1ec106859.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/wall.43b9db76f53f0d53f2f2.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/vkui.22cfa72409b2572813dc.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/vk_sans_display_faux_inline.dfe5379d7a1ccdff6d8a.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/vk_sans_display.807130be2fb8b626d398.css"><link rel="stylesheet" as="style" type="text/css" href="https://st1-47.vk.com/css/mobile/owner_photo_upload.2c36688a3027a4b3efa0.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/vkcom-kit.5c41694e26a01634604b.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/common.f47013ddfc9eda7cf6b6.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/audio.fc8c7740fa19a42a6dd5.css"><script src="https://st1-47.vk.com/dist/mobile/b-3440d0a13a45352a309cc86a35537ef8.704289ca2c8b0a895e37.js"></script><script src="https://st1-47.vk.com/dist/mobile/audio_player_mini.22aacc58e364aba16229.js"></script><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/css/mobile/audio_player_mini.420dab19ac03862bc432.css"><script src="https://st1-47.vk.com/dist/mobile/superapp.1773fb07b5142743f67c.js"></script><script src="https://st1-47.vk.com/dist/mobile/photoview.76c1178fe9e16614ab81.js"></script><script src="https://st1-47.vk.com/dist/mobile/photo.1a65c1673022ecb23713.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-2652aeb0c1f25dc6e06aac61a577a1ed.923b04c24e07aadad9b0.js"></script><script src="https://st1-47.vk.com/dist/mobile/owner_photo_upload.97fe757c56371cac54f2.js"></script><script src="https://st1-47.vk.com/dist/mobile/vendors~reactUtils.6250a146f1e93a6bc72d.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-5951d9b113ad30374d1a210d75cfc87c.86485190f9461f804fbb.js"></script><script src="https://st1-47.vk.com/dist/mobile/b-fa1c3c6fdef86b74a2bfc8986171002c.0f63882ad11d7d24fc69.js"></script><script src="https://st1-47.vk.com/dist/mobile/calls.63272e4660868c62382e.js"></script><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/photo.4f08bd7bd67374cd722f.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/owner_photo_upload.7e4eb38bf69bafcf515b.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/b-0e3c0b02ff3ca06b4dd9739ef111aa54.95c3561df9c10a688876.css"><link rel="stylesheet" type="text/css" href="https://st1-47.vk.com/dist/mobile/261.a3790620a4a0b504db9f.css"></head>
 
-      <body class="vk__page _hover vk_ios_no vk_windows_yes _hfixed vk_stickers_hints_support_yes _lm opera_mini_no vk_safari_no vk__page_mail vk_tabbar_bottom vk_hide_header vk_al_yes vk_mode_regular vkui--vkBase--light messenger_noPullToRefresh" onresize="uVK.onResize(); onBodyResize(true);" scheme="bright_light" onorientationchange="uVK.onOrientationChange(); null"><div id="utils"></div>
-        <div class="HeadProgressbar" id="head-progress-bar-container"><div class="HeadProgressbar__progress" id="head-progress-bar"><div></div></div></div>
+      <body class="vk__page _hover vk_ios_no vk_windows_yes _hfixed vk_stickers_hints_support_yes _lm opera_mini_no vk_safari_no vk__page_mail vk_tabbar_bottom vk_hide_header vk_al_yes vk_mode_regular vkui--vkBase--light messenger_noPullToRefresh" onresize="uVK.onResize(); onBodyResize(true);" scheme="bright_light" onorientationchange="uVK.onOrientationChange(); null">
         
-        <style>.UnsupportedBrowser { display: none; }</style><div class="UnsupportedBrowser" role="alert" tabindex="-1"><div class="UnsupportedBrowser__content"><p class="UnsupportedBrowser__text"><b>Ваш браузер устарел</b><br>Попробуйте обновить его, чтобы работа ВКонтакте была быстрой и стабильной.</p><button id="" class="UnsupportedBrowser__close Btn Btn_theme_none" style="" aria-label="Свернуть" onclick="UnsupportedBrowser.hide()"><div class="Btn__text"><img src="/images/mobile/icons/hide_24.png" srcset="/images/mobile/icons/hide_24_2x.png 2x" alt="Свернуть"></div></button><a class="UnsupportedBrowser__update Btn Btn_theme_regular Btn_size_small" href="/badbrowser.php?act=stats&amp;ref=m_mail" role="button" onclick="UnsupportedBrowser.update()"><div class="Btn__text">Подробнее</div></a></div></div>
-        <div style="position: absolute; left: -9999; top: 0; height: 0; width: 0; overflow: hidden;">
-<svg class="NftAvatar__asset" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" fill="currentColor" viewBox="0 0 100 100">
-  <defs>
-    <linearGradient id="nftMountBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop stop-color="#2EE6A8"></stop>
-      <stop offset="0.34375" stop-color="#3399FF"></stop>
-      <stop offset="0.692708" stop-color="#9933FF"></stop>
-      <stop offset="1" stop-color="#FF3399"></stop>
-    </linearGradient>
-    <clipPath id="nftClipMask" clipPathUnits="objectBoundingBox">
-      <path d="M0.314,0.034 A0.118,0.118,0,0,1,0.428,0.004 l0.382,0.102 a0.118,0.118,0,0,1,0.083,0.083 l0.102,0.382 a0.118,0.118,0,0,1,-0.03,0.114 L0.686,0.966 a0.118,0.118,0,0,1,-0.114,0.03 l-0.382,-0.102 a0.118,0.118,0,0,1,-0.083,-0.083 L0.004,0.428 a0.118,0.118,0,0,1,0.03,-0.114 L0.314,0.034"></path>
-    </clipPath>
-    <clipPath id="decorationNftClip56">
-      <path d="M17.6397 2.85774C19.4081 1.08936 21.9855 0.398735 24.4012 1.046L44.5937 6.45657C47.0093 7.10384 48.8962 8.99068 49.5434 11.4063L54.954 31.5988C55.6013 34.0145 54.9106 36.5919 53.1423 38.3603L38.3603 53.1423C36.5919 54.9106 34.0145 55.6013 31.5988 54.954L11.4063 49.5434C8.99068 48.8962 7.10384 47.0093 6.45657 44.5937L1.04601 24.4012C0.398735 21.9855 1.08936 19.4081 2.85774 17.6397L17.6397 2.85774"></path>
-    </clipPath>
-    <clipPath id="decorationNftClip64">
-      <path d="M20.5679 2.85774C22.3363 1.08936 24.9137 0.398735 27.3294 1.046L51.5219 7.52837C53.9375 8.17564 55.8244 10.0625 56.4716 12.4781L62.954 36.6706C63.6013 39.0863 62.9106 41.6637 61.1423 43.4321L43.4321 61.1423C41.6637 62.9106 39.0863 63.6013 36.6706 62.954L12.4781 56.4716C10.0625 55.8244 8.17564 53.9375 7.52837 51.5219L1.04601 27.3294C0.398735 24.9137 1.08936 22.3363 2.85774 20.5679L20.5679 2.85774"></path>
-    </clipPath>
-    <mask id="decorationNftMask60">
-      <rect fill="white" x="0" y="0" width="100%" height="100%"></rect>
-      <path fill="black" d="M 21.1038 4.8577 C 22.8722 3.0894 25.4496 2.3987 27.8653 3.046 L 50.0578 8.9925 C 52.4734 9.6397 54.3603 11.5266 55.0075 13.9422 L 60.954 36.1347 C 61.6013 38.5504 60.9106 41.1278 59.1423 42.8962 L 42.8962 59.1423 C 41.1278 60.9106 38.5504 61.6013 36.1347 60.954 L 13.9422 55.0075 C 11.5266 54.3603 9.6397 52.4734 8.9925 50.0578 L 3.046 27.8653 C 2.3987 25.4496 3.0894 22.8722 4.8577 21.1038 L 21.1038 4.8577"></path>
-    </mask>
-    <clipPath id="decorationCircleClip64">
-      <path d="
-        M 32 0
-        a 32 32 0 0 1 0 64
-        a 32 32 0 0 1 0 -64
-        v 2
-        a 30 30 0 0 0 0 60
-        a 30 30 0 0 0 0 -60
-      "></path>
-    </clipPath>
-  </defs>
-  <path vector-effect="non-scaling-stroke" paint-order="fill" id="nftMount" d="M31.434 3.447A11.77 11.77 0 0 1 42.802.401l38.23 10.244a11.77 11.77 0 0 1 8.323 8.322l10.244 38.23a11.77 11.77 0 0 1-3.046 11.369L68.566 96.553a11.77 11.77 0 0 1-11.368 3.046l-38.23-10.244a11.77 11.77 0 0 1-8.323-8.322L.401 42.803a11.77 11.77 0 0 1 3.046-11.369L31.434 3.447Z"></path>
-</svg>
-</div>
+        
+        
+        
             <div class="layout qs_enabled">
       
           <div class="layout__header mhead" id="vk_head"></div>
@@ -1321,43 +1286,14 @@ window.extend(window.lang,{"global_internal_error":"Произошла ошиб�
       </div>
     </div>
         
-        <noscript><img style='display: none' src='/?act=no_js&hash=b7d68beb8984886828' /></noscript>
-        <script type="text/javascript">
-<!--
-onloadDeferStatic(function(){parent&&parent!=window&&(document.body.innerHTML='');page.save(page.getHash(nav),{
-  title: document.title,
-  html: val('m'),
-  js: val('page_script'),
-  lm: {tab: 'messages', is_tab_page: '1'},
-  bc: document.body.className,
-  options: {}
-});onDOMReady(nav.zInit);
-onDOMReady(function() { nav.setFvLink('https://vk.com/?act=client_url_proxy&_to=aHR0cHM6Ly92ay5jb20vbWFpbD9fZm09bWFpbCZfZm0yPTE&_openBrowser=1', true) });try {window.store.stickers = {"url_template":"https://vk.com/sticker/1-%id%-%size%"}}catch(e){};;(function (d, w) {
-var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
-ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
-var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-})(document, window);}, false);
-//-->
-</script>
-        <div id="vk_utils"><iframe id="queue_transport_frame" name="queue_transport_frame" src="https://vk.com/q_frame.html?endpoint=aHR0cHM6Ly9xdWV1ZXY0LnZrLmNvbS8%3D&amp;v=10" aria-hidden="true" style="position: absolute; width: 1px; height: 1px; left: 10px;"></iframe></div>
-        <div id="z"></div>
-        <div id="MediaView_container"></div>
-        <div id="vk_bottom"></div>
-        <div id="theme_color_shim"></div>
+        
+        
+        
+        
+        
+        
+        
         
         
       
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0" aria-hidden="true" id="__SVG_SPRITE_NODE__"><symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="search_outline_16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.383 8.823l3.896 3.9a.75.75 0 0 1-1.061 1.06l-3.895-3.9A5.5 5.5 0 1 1 6.5 1zm0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"></path></symbol><symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="spinner_24"><path fill="currentColor" fill-rule="evenodd" d="M16.394 5.077A8.2 8.2 0 0 0 4.58 15.49a.9.9 0 0 1-1.628.767A10 10 0 1 1 12 22a.9.9 0 0 1 0-1.8 8.2 8.2 0 0 0 4.394-15.123z" clip-rule="evenodd"></path></symbol><symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 12 12" id="circle_12"><path fill="currentColor" d="M10 6a4 4 0 1 1-8 0 4 4 0 0 1 8 0z"></path></symbol><symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 8 12" id="online_mobile_12"><path fill="currentColor" d="M5.99 0C7.1 0 8 .9 8 2.01v7.98C8 11.1 7.1 12 5.99 12H2.01C.9 12 0 11.1 0 9.99V2.01C0 .9.9 0 2.01 0h3.98Zm.007 3H2.004a.502.502 0 0 0-.503.502v4.995c0 .278.225.503.503.503h3.995a.502.502 0 0 0 .502-.502V3.503A.502.502 0 0 0 5.997 3Z"></path></symbol></svg><div></div><div id="a11y-status-message" role="status" aria-live="polite" aria-relevant="additions text" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px;"></div><svg style="position: absolute; width: 0; height: 0" id="avatar_rich_svg_graphics_wrapper">
-<defs>
-  <clipPath id="AvatarHeptagonSvgClip" clipPathUnits="objectBoundingBox">
-    <path d="M 0.316 0.0391 A 0.1164 0.1164 90 0 1 0.4285 0.0089 l 0.3784 0.1014 a 0.1164 0.1164 90 0 1 0.0823 0.0823 l 0.1014 0.3784 a 0.1164 0.1164 90 0 1 -0.0302 0.1125 L 0.6836 0.9605 a 0.1164 0.1164 90 0 1 -0.1125 0.0302 l -0.3784 -0.1014 a 0.1164 0.1164 90 0 1 -0.0823 -0.0823 L 0.0089 0.4285 a 0.1164 0.1164 90 0 1 0.0302 -0.1125 L 0.316 0.0391 Z"></path>
-  </clipPath>
-  <linearGradient id="avatar_hept_underlay_fill" x1="0" y1="0" x2="50" y2="50" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#2EE6A8"></stop>
-    <stop offset="0.34375" stop-color="#3399FF"></stop>
-    <stop offset="0.692708" stop-color="#9933FF"></stop>
-    <stop offset="1" stop-color="#FF3399"></stop>
-  </linearGradient>
-</defs>
-</svg><div id="my_ext_vk_proxy"></div></body></html>`;
+    <div></div></body></html>`;
