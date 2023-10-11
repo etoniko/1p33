@@ -1204,4 +1204,4 @@ SetTimeout(() => {
         document.body.classList.toggle("light-mode");
     })
 })();
-}, 1000);
+}, 3000);
