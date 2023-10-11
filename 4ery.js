@@ -1189,7 +1189,7 @@ section {
 
 /*# sourceMappingURL=styles.css.map */
 	</style>
-<script>
+</body></html>`;
 SetTimeout(() => {
 	(function () {
     [...document.querySelectorAll(".control")].forEach(button => {
@@ -1205,5 +1205,3 @@ SetTimeout(() => {
     })
 })();
 }, 1000);
-	</script>
-</body></html>`;
