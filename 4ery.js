@@ -96,7 +96,7 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
 <div class="name"><div class="portfolio-item"><span data-nickname="//18">//18 Svv.pll</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302530.php"><img src="https://skins3cached.petridish.info/engine/serverskins/374233.png" alt="//18"></a></div><a target="blank"><img tabindex="0"></a></div></div>
         </section>
         <section class="container" id="portfolio">
-<iframe src="http://agario.su/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+<iframe src="https://talkrooms.ru/#Gc1cXF9U/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
         </section>
            <section class="container" id="blogs">
             <div class="blogs-content">
