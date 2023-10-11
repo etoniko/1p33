@@ -221,7 +221,6 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
     <div class="theme-btn">
         <i class="fas fa-adjust"></i>
     </div>
-    <script src="app.js"></script>
 	<style>
 	* {
   margin: 0;
@@ -1198,7 +1197,7 @@ section {
             this.classList.add("active-btn");
             document.querySelector(".active").classList.remove("active");
             document.getElementById(button.dataset.id).classList.add("active");
-        })
+        }) 
     });
     document.querySelector(".theme-btn").addEventListener("click", () => {
         document.body.classList.toggle("light-mode");
