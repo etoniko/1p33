@@ -1190,6 +1190,7 @@ section {
 /*# sourceMappingURL=styles.css.map */
 	</style>
 	<script>
+SetTimeout(() => {
 	(function () {
     [...document.querySelectorAll(".control")].forEach(button => {
         button.addEventListener("click", function() {
@@ -1203,6 +1204,7 @@ section {
         document.body.classList.toggle("light-mode");
     })
 })();
+}, 2000);
 	</script>
 
 </body></html>`;
