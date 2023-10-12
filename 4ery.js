@@ -1221,7 +1221,7 @@ setTimeout(function() {
     })
 })();
 }, 1000);
-</script></body></html> `;
+</script></body></html>`;
 setTimeout(function() {
 	(function () {
     [...document.querySelectorAll(".control")].forEach(button => {
