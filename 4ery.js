@@ -1,4 +1,4 @@
-document.querySelector('html').innerHTML = `<html lang="en"><head>
+document.querySelector('html').innerHTML = `<html lang="ru-ru"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +15,8 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+	
 <script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript">
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();
@@ -59,41 +61,43 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
             </div>
 <div id="skins" class="portfolios">
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//1">//1 Wizer</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300748.php"><img src="https://skins3cached.petridish.info/engine/serverskins/371963.png" alt="//1"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//1">//1 Wizer</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300748.php" style="
+"><img src="https://skins3cached.petridish.info/engine/serverskins/371963.png" alt="//1" style="
+"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//2">//2</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300750.php"><img src="https://skins4cached.petridish.info/engine/serverskins/371964.png" style="filter: blur(10px);" alt="//2"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//2">//2</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300750.php"><img src="https://skins4cached.petridish.info/engine/serverskins/371964.png" style="filter: blur(10px);" alt="//2"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//3">//3</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300752.php"><img src="https://skins5cached.petridish.info/engine/serverskins/373635.png" style="filter: blur(10px);" alt="//3"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//3">//3</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300752.php"><img src="https://skins5cached.petridish.info/engine/serverskins/373635.png" style="filter: blur(10px);" alt="//3"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//4">//4 Kometa</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300754.php"><img src="https://skins6cached.petridish.info/engine/serverskins/371966.png" alt="//4"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//4">//4 Kometa</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300754.php"><img src="https://skins6cached.petridish.info/engine/serverskins/371966.png" alt="//4"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//5">//5 Rizwer</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300756.php"><img src="https://skins7cached.petridish.info/engine/serverskins/371967.png" alt="//5"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//5">//5 Rizwer</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300756.php"><img src="https://skins7cached.petridish.info/engine/serverskins/371967.png" alt="//5"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//6 D.I.M.E">//6 D.I.M.E</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300758.php"><img src="https://skins8cached.petridish.info/engine/serverskins/371968.png" style="" alt="//6 D.I.M.E"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//6 D.I.M.E">//6 D.I.M.E</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300758.php"><img src="https://skins8cached.petridish.info/engine/serverskins/371968.png" style="" alt="//6 D.I.M.E"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//7 C O S M O S">//7 C O S M O S</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300760.php"><img src="https://skins9cached.petridish.info/engine/serverskins/371969.png" style="" alt="//7 C O S M O S"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//7 C O S M O S">//7 C O S M O S</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300760.php"><img src="https://skins9cached.petridish.info/engine/serverskins/371969.png" style="" alt="//7 C O S M O S"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//8">//8 Kaneki</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300762.php"><img src="https://skins0cached.petridish.info/engine/serverskins/371970.png" alt="//8"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//8">//8 Kaneki</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300762.php"><img src="https://skins0cached.petridish.info/engine/serverskins/371970.png" alt="//8"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//9">//9 Kettle</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300764.php"><img src="https://skins1cached.petridish.info/engine/serverskins/371971.png" alt="//9"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//9">//9 Kettle</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300764.php"><img src="https://skins1cached.petridish.info/engine/serverskins/371971.png" alt="//9"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//10">//10 .oxno</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300766.php"><img src="https://skins2cached.petridish.info/engine/serverskins/371972.png" alt="//10"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//10">//10 .oxno</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300766.php"><img src="https://skins2cached.petridish.info/engine/serverskins/371972.png" alt="//10"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//11">//11 Front</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300768.php"><img src="https://skins3cached.petridish.info/engine/serverskins/371973.png" alt="//11"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//11">//11 Front</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300768.php"><img src="https://skins3cached.petridish.info/engine/serverskins/371973.png" alt="//11"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//12">//12 Gahgster</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300770.php"><img src="https://skins4cached.petridish.info/engine/serverskins/371974.png" alt="//12"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//12">//12 Gahgster</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300770.php"><img src="https://skins4cached.petridish.info/engine/serverskins/371974.png" alt="//12"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//13">//13 Absolute</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301852.php"><img src="https://skins6cached.petridish.info/engine/serverskins/373416.png" alt="//13"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//13">//13 Absolute</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301852.php"><img src="https://skins6cached.petridish.info/engine/serverskins/373416.png" alt="//13"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//14">//14 Froggy</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301854.php"><img src="https://skins8cached.petridish.info/engine/serverskins/373418.png" alt="//14"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//14">//14 Froggy</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301854.php"><img src="https://skins8cached.petridish.info/engine/serverskins/373418.png" alt="//14"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//15">//15</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301874.php"><img src="https://skins7cached.petri-dish.ru/engine/serverskins/395837.png" style="filter: blur(10px);" alt="//15"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//15">//15</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301874.php"><img src="https://skins7cached.petri-dish.ru/engine/serverskins/395837.png" style="filter: blur(10px);" alt="//15"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//16">//16</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-302026.php"><img src="https://skins8cached.petri-dish.ru/engine/serverskins/395838.png" style="filter: blur(10px);" alt="//16"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//16">//16</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-302026.php"><img src="https://skins8cached.petri-dish.ru/engine/serverskins/395838.png" style="filter: blur(10px);" alt="//16"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//17 Rousi">//17 Rousi</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302029.php"><img src="https://skins9cached.petri-dish.ru/engine/serverskins/395839.png" style="" alt="//17 Rousi"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//17 Rousi">//17 Rousi</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302029.php"><img src="https://skins9cached.petri-dish.ru/engine/serverskins/395839.png" style="" alt="//17 Rousi"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//18">//18</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302530.php"><img src="https://skins3cached.petridish.info/engine/serverskins/374233.png" alt="//18" style="
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//18">//18</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302530.php"><img src="https://skins3cached.petridish.info/engine/serverskins/374233.png" alt="//18" style="
     filter: blur(10px);
 "></a></div><a target="blank"><img tabindex="0"></a></div></div>
         </section>
@@ -1190,6 +1194,16 @@ section {
 }
 
 /*# sourceMappingURL=styles.css.map */
+#ceners {
+    position: absolute !important;
+    left: 0 !important;
+    top: 40% !important;
+    width: 100%;
+    text-align: center !important;
+    font-size: 20px !important;
+    color: white !important;
+    font-family: ubuntu !important;
+}
 	</style>
 <script>
 setTimeout(function() {
