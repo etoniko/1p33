@@ -636,7 +636,7 @@ section {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 2.1rem;
-  margin-top: 3rem;
+  margin-top: 0rem;
 }
 .portfolios .portfolio-item {
   position: relative;
