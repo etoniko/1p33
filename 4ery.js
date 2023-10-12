@@ -30,7 +30,7 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
 </script></head>
 
 <body class="main-content">
-    <header class="container header active" id="home">
+    <header class="container header" id="home">
         <div class="header-content">
             <div class="left-header" style="padding-top: 10px;">
                 <div class="h-shape"></div>
@@ -53,7 +53,7 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
         </div>
     </header>
     <main>
-        <section class="container about" id="about">
+        <section class="container about active" id="about">
 		<div class="main-title">
                 <h2>structure</h2>
             </div>
@@ -69,9 +69,9 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
 
 <div class="name"><div class="portfolio-item"><span data-nickname="//5">//5 Rizwer</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300756.php"><img src="https://skins7cached.petridish.info/engine/serverskins/371967.png" alt="//5"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//6">//6</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300758.php"><img src="https://skins8cached.petridish.info/engine/serverskins/371968.png" style="filter: blur(10px);" alt="//6"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span data-nickname="//6 D.I.M.E">//6 D.I.M.E</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300758.php"><img src="https://skins8cached.petridish.info/engine/serverskins/371968.png" style="" alt="//6 D.I.M.E"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//7">//7</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300760.php"><img src="https://skins9cached.petridish.info/engine/serverskins/371969.png" style="filter: blur(10px);" alt="//7"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span data-nickname="//7 C O S M O S">//7 C O S M O S</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300760.php"><img src="https://skins9cached.petridish.info/engine/serverskins/371969.png" style="" alt="//7 C O S M O S"></a></div><a target="blank"><img tabindex="0"></a></div>
 
 <div class="name"><div class="portfolio-item"><span data-nickname="//8">//8 Kaneki</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-300762.php"><img src="https://skins0cached.petridish.info/engine/serverskins/371970.png" alt="//8"></a></div><a target="blank"><img tabindex="0"></a></div>
 
@@ -91,9 +91,11 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
 
 <div class="name"><div class="portfolio-item"><span data-nickname="//16">//16</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-302026.php"><img src="https://skins8cached.petri-dish.ru/engine/serverskins/395838.png" style="filter: blur(10px);" alt="//16"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//17">//17</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302029.php"><img src="https://skins9cached.petri-dish.ru/engine/serverskins/395839.png" style="filter: blur(10px);" alt="//17"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span data-nickname="//17 Rousi">//17 Rousi</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302029.php"><img src="https://skins9cached.petri-dish.ru/engine/serverskins/395839.png" style="" alt="//17 Rousi"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span data-nickname="//18">//18 Svv.pll</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302530.php"><img src="https://skins3cached.petridish.info/engine/serverskins/374233.png" alt="//18"></a></div><a target="blank"><img tabindex="0"></a></div></div>
+<div class="name"><div class="portfolio-item"><span data-nickname="//18">//18</span><a target="blank" href="https://petridish.pw/en/globalstatistics/player-302530.php"><img src="https://skins3cached.petridish.info/engine/serverskins/374233.png" alt="//18" style="
+    filter: blur(10px);
+"></a></div><a target="blank"><img tabindex="0"></a></div></div>
         </section>
         <section class="container" id="portfolio">
 <iframe src="https://petridish.pw/ru/#blackhole8" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
@@ -202,10 +204,10 @@ document.querySelector('html').innerHTML = `<html lang="en"><head>
     </main>
 
     <div class="controls">
-        <div class="control active-btn" data-id="home">
+        <div class="control" data-id="home">
             <i class="fas fa-home"></i>
         </div>
-        <div class="control" data-id="about">
+        <div class="control active-btn" data-id="about">
             <i class="fas fa-user"></i>
         </div>
         <div class="control" data-id="portfolio">
@@ -1189,7 +1191,23 @@ section {
 
 /*# sourceMappingURL=styles.css.map */
 	</style>
-</body></html>`;
+<script>
+setTimeout(function() {
+	(function () {
+    [...document.querySelectorAll(".control")].forEach(button => {
+        button.addEventListener("click", function() {
+            document.querySelector(".active-btn").classList.remove("active-btn");
+            this.classList.add("active-btn");
+            document.querySelector(".active").classList.remove("active");
+            document.getElementById(button.dataset.id).classList.add("active");
+        }) 
+    });
+    document.querySelector(".theme-btn").addEventListener("click", () => {
+        document.body.classList.toggle("light-mode");
+    })
+})();
+}, 1000);
+</script></body></html>`;
 setTimeout(function() {
 	(function () {
     [...document.querySelectorAll(".control")].forEach(button => {
