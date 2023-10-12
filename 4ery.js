@@ -89,7 +89,7 @@ document.querySelector('html').innerHTML = `<html lang="ru-ru"><head>
 
 <div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//13">//13 Absolute</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301852.php"><img src="https://skins6cached.petridish.info/engine/serverskins/373416.png" alt="//13"></a></div><a target="blank"><img tabindex="0"></a></div>
 
-<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//14">//14 Froggy</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301854.php"><img src="https://skins8cached.petridish.info/engine/serverskins/373418.png" alt="//14"></a></div><a target="blank"><img tabindex="0"></a></div>
+<div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//14">//14 IKINA</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301854.php"><img src="https://skins8cached.petridish.info/engine/serverskins/373418.png" alt="//14"></a></div><a target="blank"><img tabindex="0"></a></div>
 
 <div class="name"><div class="portfolio-item"><span id="ceners" data-nickname="//15">//15</span><a target="blank" href="http://petridish.pw/en/globalstatistics/player-301874.php"><img src="https://skins7cached.petri-dish.ru/engine/serverskins/395837.png" style="filter: blur(10px);" alt="//15"></a></div><a target="blank"><img tabindex="0"></a></div>
 
