@@ -993,7 +993,7 @@ body.vk_tabbar_bottom .BottomMenu__fixed{box-shadow:0-2px 6px 2px var(--black_al
   </div>
   <div class="si_body">
     <a class="si_owner al_unew406794348 _unew406794348" href="/robertodebagdino" rel="noopener">Роберт Багдикян<span class="ImageStatus__status ImageStatus__status--normal"><img class="ImageStatus__statusImage" src="https://sun6-20.userapi.com/kVu8PsHalpfcdKfOf_DB6FTJoTa0l-hcY_8kig/A4UEf5E6l8o.png" srcset="https://sun6-23.userapi.com/KxWxS7HsLUNxMd8c9YxRKjNRulr9VpaVlkKu3Q/anuos6g7tZQ.png 2x"></span></a>
-    <div class="si_slabel">Пригласил <a href="/id307611344" rel="noopener">Максим Ёлкин</a> </div>
+    <div class="si_slabel">Вас пригласил <a href="/id307611344" rel="noopener">Максим Ёлкин</a> </div>
     <div class="si_links"><a class="si_link" href="/mail?act=show&amp;peer=406794348" rel="noopener">В день сидит в вк 7 часов</a></div>
   </div>
 </div><div class="simple_item">
